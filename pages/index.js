@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import Banner from '../components/banner/banner'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -12,6 +13,13 @@ export default function Home() {
       </Head>
 
       <h1>Netflix</h1>
+
+      {/* <NavBar /> */}
+      
+      <Banner title='See' subTitle='Series Finale' imgUrl='/static/placeholder-img.jpg' />
+
+      {/* <Card /> */}
+
       
     </div>
   )
