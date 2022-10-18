@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Banner from '../components/banner/banner'
+import Card from '../components/card/card'
 import NavBar from '../components/nav/navbar'
 import styles from '../styles/Home.module.css'
 
@@ -17,9 +18,10 @@ export default function Home() {
       
       <Banner title='See' subTitle='Series Finale' imgUrl='/static/placeholder-img.jpg' />
 
-      {/* <Card /> */}
+      <Card imgUrl='/static/placeholder-img.jpg' size='large' />
+      <Card imgUrl='/static/placeholder-img.jpg' size='medium' />
+      <Card imgUrl='/static/placeholder-img.jpg' size='small' />
 
-      
     </div>
   )
 }
