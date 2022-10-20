@@ -1,0 +1,821 @@
+{
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RRjJGfDH2J4ve4RD_apjHxzq4-U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ej0vb8xhvbw"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-20T14:00:00Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "The Crown | Season 5 Official Trailer | Netflix",
+          "description": "Inspired by real events, this fictional dramatisation tells the story of Queen Elizabeth II and the political and personal events that ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ej0vb8xhvbw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ej0vb8xhvbw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ej0vb8xhvbw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-20T14:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "k2WY_TuRA3swWNy0mEYQohd3Mx4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hf8EYbVxtCY"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-20T13:00:00Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "All Quiet on the Western Front | Official Trailer | Netflix",
+          "description": "All Quiet on the Western Front tells the gripping story of a young German soldier on the Western Front of World War I. Paul and his ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hf8EYbVxtCY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hf8EYbVxtCY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hf8EYbVxtCY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-20T13:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zpvhV85w9VkY5ZaeoILZO50ci5k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6T1Jt07CLfU"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-20T16:00:00Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "Netflix &amp; Chills 2022 | Embrace Your Fear | Netflix",
+          "description": "Let the legendary Mark Hamill be your guide this Halloween season, as you embrace your fear and enter a world of horror with ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6T1Jt07CLfU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6T1Jt07CLfU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6T1Jt07CLfU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-20T16:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_1Bwo_REEyA6BEGSvsBIobrzSgI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fcGzhebewjY"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-24T16:55:09Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "Tudum: A Netflix Global Fan Event",
+          "description": "Tudum is Netflix's home for fandom! Watch your favorite stars and creators from around the world on the virtual stage for an ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fcGzhebewjY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fcGzhebewjY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fcGzhebewjY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-24T16:55:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BX1YZM3XXSXL5dHJoX2Q3lJJwFE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XmtXC_n6X6Q"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-17T13:00:02Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "Our Planet | From Deserts to Grasslands | FULL EPISODE | Netflix",
+          "description": "Experience our planet's natural beauty and examine how climate change impacts all living creatures in this ambitious ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XmtXC_n6X6Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XmtXC_n6X6Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XmtXC_n6X6Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-17T13:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0gLkjte7D3hPVGhg_Pk8STJrQ08",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "R2DU85qLfJQ"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-17T13:00:00Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "Our Planet | Fresh Water | FULL EPISODE | Netflix",
+          "description": "Experience our planet's natural beauty and examine how climate change impacts all living creatures in this ambitious ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/R2DU85qLfJQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/R2DU85qLfJQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/R2DU85qLfJQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-17T13:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YLBU5NEwRQGPVxi9tcwBWgeZMZQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KKXNmYoPkx0"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-24T17:07:00Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "Enola Holmes 2 | Official Trailer: Part 1 | Netflix",
+          "description": "Adventure strikes again! Millie Bobby Brown, Henry Cavill, and Helena Bonham Carter return in Enola Holmes 2 — where a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KKXNmYoPkx0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KKXNmYoPkx0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KKXNmYoPkx0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-24T17:07:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "q1Dne_HULV4qNI44Bq-DGl1pY2Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Q73UhUTs6y0"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-09T00:05:01Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "Wednesday Addams | Official Trailer | Netflix",
+          "description": "New characters are revealed in the official trailer for WEDNESDAY, an upcoming Netflix series from the imagination of Tim Burton.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q73UhUTs6y0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q73UhUTs6y0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q73UhUTs6y0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-09T00:05:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-7x1HHfofvM77cFknQ2Q0i47nhA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kDA-phXyYH8"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-07T16:30:00Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "Blockbuster | Official Trailer | Netflix",
+          "description": "After learning he is managing the last Blockbuster Video in America, Timmy and his employees fight to stay afloat. Blockbuster ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kDA-phXyYH8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kDA-phXyYH8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kDA-phXyYH8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-07T16:30:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "v9GBPSks9cjhI6woEV7evmxeTIM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-9zTEpKm9GI"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-24T14:00:00Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "New on Netflix | September 2022",
+          "description": "Cobra Kai, Do Revenge, Jo Koy, Chef's Table Pizza and more coming to Netflix US this September! Timecodes: Comedy - 0:03 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-9zTEpKm9GI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-9zTEpKm9GI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-9zTEpKm9GI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-24T14:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YtEj1Jedg4l1S4gbYkIPH9BnZDg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UXZzyKTsBMw"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-31T18:54:00Z",
+          "channelId": "UCE4Gn00XZbpWvGUfIslT-tA",
+          "title": "Why Netflix is Collapsing: The Truth About Netflix&#39;s Empire",
+          "description": "Get a 60-day free trial at https://shipstation.com/magnates The Netflix Movie: The INSANE Rise and Fall of Netflix - a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UXZzyKTsBMw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UXZzyKTsBMw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UXZzyKTsBMw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MagnatesMedia",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-31T18:54:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uPFYMJV1-jnbPUd-h8ZE1vDLAeg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Di310WS8zLk"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-17T15:00:00Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "Wednesday Addams | Official Teaser | Netflix",
+          "description": "Watch the official teaser for WEDNESDAY, an upcoming Netflix series from the imagination of Tim Burton. WEDNESDAY ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Di310WS8zLk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Di310WS8zLk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Di310WS8zLk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-17T15:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QzvkW7UJIRVzmfNcnIq2t0lLxLM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yk5KDzBf4FI"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-25T14:00:36Z",
+          "channelId": "UCvJJ_dzjViJCoLf5uKUTwoA",
+          "title": "How Netflix Lost Its Edge To Disney+",
+          "description": "Over the past 25 years, Netflix revolutionized the film and television industry. The company amassed over 220 million subscribers ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yk5KDzBf4FI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yk5KDzBf4FI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yk5KDzBf4FI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-25T14:00:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "glqty_pb9ZEcns49ZBUusrjquS0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vrmMhBrH0cM"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-21T14:00:00Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "New on Netflix | October 2022",
+          "description": "The School for Good and Evil, The Midnight Club, Wendell & Wild, Unsolved Mysteries Vol 3, Guillermo Del Toro's Cabinet of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vrmMhBrH0cM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vrmMhBrH0cM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vrmMhBrH0cM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-21T14:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MRwDB5-5lSbGx7i3o4bqUd7kjno",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NVHHs-xllqo"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-16T14:00:00Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "DAHMER - Monster: The Jeffrey Dahmer Story | Official Trailer (Trailer 1) | Netflix",
+          "description": "From the Emmy award winning creator of American Crime Story comes Dahmer - Monster: the Jeffrey Dahmer Story. The series ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NVHHs-xllqo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NVHHs-xllqo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NVHHs-xllqo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-16T14:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pr8ausrAgQolfbygY6_xyjsDa-E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zUBsmQ-OByM"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-18T13:00:00Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "Young Royals: Season 2 | Official Trailer | Netflix",
+          "description": "When you lose yourself…you find what matters. Young Royals season 2 is coming on November 1, only on Netflix. SUBSCRIBE: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zUBsmQ-OByM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zUBsmQ-OByM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zUBsmQ-OByM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-18T13:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "95cVm2iyAgmjmvcNnJ_WDe6kPRw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aftysDQ4hpI"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-13T13:00:03Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "The School for Good and Evil | Official Trailer | Netflix",
+          "description": "Do you ever wonder where every great fairytale begins? Welcome to the School for Good and Evil… Based on the epic ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aftysDQ4hpI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aftysDQ4hpI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aftysDQ4hpI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-13T13:00:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oiOkzpKbTiJaXTWz3NXssc2n8w8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XszaIFktCVw"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-19T16:30:00Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "Wednesday Addams | From the Mind of Tim Burton | Netflix",
+          "description": "Jenna Ortega, Catherine Zeta-Jones, and showrunners Alfred Gough and Miles Millar discuss the creative genius that Tim Burton ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XszaIFktCVw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XszaIFktCVw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XszaIFktCVw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-19T16:30:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "evY_NyBKewpT6nP2Uq0qzkb2aR4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "X3cCROeOQLQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-20T14:00:00Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "THE MIDNIGHT CLUB | Official Trailer | Netflix",
+          "description": "To those before, to those after. To us now, and to those beyond: welcome to THE MIDNIGHT CLUB, a new Netflix horror series ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/X3cCROeOQLQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/X3cCROeOQLQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/X3cCROeOQLQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-20T14:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eitTJSahZUWD0xxaNYFHPwsma5s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bsNIJd45jYM"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-07T13:00:01Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "Falling For Christmas | Lindsay Lohan | Official Trailer | Netflix",
+          "description": "A newly engaged, spoiled hotel heiress (Lindsay Lohan) gets into a skiing accident, suffers from total amnesia and finds herself in ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bsNIJd45jYM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bsNIJd45jYM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bsNIJd45jYM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-07T13:00:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9xG4_8XS8BpdA8T0v4hI_3AQikY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "E4RUgdvJlgg"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-20T14:00:00Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "New on Netflix | August 2022",
+          "description": "The Sandman, Locke & Key season 3, Never Have I Ever season 3, Day Shift, Me Time - Here's what's coming to Netflix in the US ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E4RUgdvJlgg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E4RUgdvJlgg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E4RUgdvJlgg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-20T14:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "i3ZsABBvuu5X8IfKvq9-vaeP_dg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pvQP-85ADRE"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-21T18:00:00Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "DAHMER - Monster: The Jeffrey Dahmer Story | Evan Peters On The Complexity Of Playing Dahmer",
+          "description": "Evan Peters discusses his participation on DAHMER - Monster: The Jeffrey Dahmer Story. From the Emmy award winning creator ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pvQP-85ADRE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pvQP-85ADRE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pvQP-85ADRE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-21T18:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5S8pTYhhVmDlmVOSxWECC5fngVY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "htybz7XscIY"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-04T14:00:00Z",
+          "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+          "title": "The Wonder | Official Trailer | Netflix",
+          "description": "Starring Florence Pugh and based on the book by Emma Donoghue, writer of Room. The Wonder is the tale of a young Irish girl, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/htybz7XscIY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/htybz7XscIY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/htybz7XscIY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Netflix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-04T14:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qMK4u7tvOND9ycS3Nd72BUe06uk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wF_KWLprWEQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-19T14:54:34Z",
+          "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+          "title": "Investors raise skepticism about Netflix&#39;s new ad tier",
+          "description": "Michael Nathanson, founding partner at Moffett-Nathanson and Barton Crockett, media analyst at Rosenblatt Securities, join ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wF_KWLprWEQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wF_KWLprWEQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wF_KWLprWEQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNBC Television",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-19T14:54:34Z"
+        }
+      }
+    ]
+  }
+  

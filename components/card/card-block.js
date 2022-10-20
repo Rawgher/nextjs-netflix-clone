@@ -3,8 +3,7 @@ import styles from "./card-block.module.css";
 
 const CardBlock = (props) => {
 
-    const { title, videos, size } = props;
-    console.log({videos});
+    const { title, videos = [], size } = props;
 
     return (
         <section className={styles.container}>
