@@ -10,7 +10,7 @@ const CardBlock = (props) => {
             <h2 className={styles.title}>{title}</h2>
             <div className={styles.cardWrapper}>
                 {videos.map((video, idx) => {
-                    return <Card id={idx} imgUrl={video.imgUrl} size={size} />
+                    return <Card id={idx} imgUrl={video.imgUrl} size={size} key={idx} />
                 })}
             </div>
         </section>
