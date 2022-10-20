@@ -29,11 +29,13 @@ const NavBar = (props) => {
     return (
         <div className={styles.container}>
             <div className={styles.wrapper}>
-                <a className={styles.logoLink} href="/">
-                    <div className={styles.logoWrapper}>
-                        <Image src='/static/mockflix.png' alt='Mockflix custom logo' width='150px' height='34px' />
-                    </div>
-                </a>
+                <Link className={styles.logoLink} href="/">
+                    <a>
+                        <div className={styles.logoWrapper}>
+                            <Image src='/static/mockflix.png' alt='Mockflix custom logo' width='150px' height='34px' />
+                        </div>
+                    </a>
+                </Link>
             
                 <ul className={styles.navItems}>
                     <li className={styles.navItem} onClick={handleOnClickHome}>Home</li>
